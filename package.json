@@ -12,9 +12,11 @@
     "csv": "^1.1.1",
     "csvtojson": "^1.1.4",
     "hapi": "*",
+    "inert": "^4.2.0",
     "joi": "*",
     "lodash": "^4.17.4",
     "minimist": "^1.2.0",
+    "path": "^0.12.7",
     "sequelize": "*",
     "sqlite3": "*"
   }
